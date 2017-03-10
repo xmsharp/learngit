@@ -1,2 +1,3 @@
 git is a very nice system
 git is ccc
+git is my dear
